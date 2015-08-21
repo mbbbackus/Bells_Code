@@ -1,0 +1,14 @@
+Bells Requirements
+
+1. Read a default Monday - Friday bells schedule which is automatically loaded each night at 12:01 am. 
+   Random songs are loaded during this process. 
+2. Manually stop and start the songs from playing without exiting the application. 
+3. Manually change the time bells are scheduled to ring. 
+4. Manually change songs that will play during the day. 
+5. Ability to upload songs which are added to the playlist of random songs. 
+6. Ability to save special schedules with songs. Then be able to load the saved schedule at a later time. 
+7. Read a file that lists pre-set song lists. For example, we know that we want certain songs to play on 
+   Tuesday June 2 or any given day. A song file containing the bell times and songs is saved. 
+   Before loading the default schedule and assigning random songs for Tuesday June 2, the application looks 
+   at a known location where pre-set song files are listed. If the application finds a song file for June 2, 
+   that song file is loaded instead of the default schedule and random songs. 
