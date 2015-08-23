@@ -2,15 +2,24 @@
 from pygame import mixer
 from pydub import AudioSegment
 import time
+import constants
 
-def playBell():
-    song = AudioSegment.from_mp3("sounds/prebell.mp3")
-    newsong = song.export("sounds/prebell.wav", format="wav")
-
+def playBell(name, t):
     mixer.init()
-    sound = mixer.Sound(file="sounds/prebell.wav")
+    sound = mixer.Sound(file=name)
     sound.play()
-    time.sleep(6)
+    time.sleep(t)
     mixer.quit()
 
-playBell()
+def playPrebell():
+    path = constants.prebellPath
+    playBell(path,6)
+
+def playPostbell():
+    path = constants.postbellPath
+    playBell(path,18)
+
+print "pre"
+playPrebell()
+print "post"
+playPostbell()
