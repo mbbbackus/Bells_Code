@@ -1,0 +1,45 @@
+{
+	"Wednesday":
+	{
+		"Advisory" : {"Time": "8:05", "song": ""},
+		"A_Block" : {"Time": "9:00", "song": ""},
+		"B_Block" : {"Time": "9:35", "song": ""},
+		"Break" : {"Time": "10:10", "song": ""},
+		"C_Block" : {"Time": "10:25", "song": ""},
+		"D_Block" : {"Time": "11:00", "song": ""},
+		"E_Block" : {"Time": "11:35", "song": ""},
+		"F_Block" : {"Time": "12:10", "song": ""},
+		"G_Block" : {"Time": "12:45", "song": ""},
+		"H_Block" : {"Time": "13:20", "song": ""},
+		"Assembly" : {"Time": "13:55", "song": ""},
+		"End" : {"Time": "15:10", "song": ""}
+	},
+	"Thursday":
+	{
+		"B_block" : {"Time": "8:05", "song": ""},
+		"A_block" : {"Time": "8:55", "song": ""},
+		"Assembly" : {"Time": "9:40", "song": ""},
+		"G_block" : {"Time": "10:30", "song": ""},
+		"H_block" : {"Time": "11:15", "song": ""},
+		"E_block" : {"Time": "12:00", "song": ""},
+		"F_block" : {"Time": "12:45", "song": ""},
+		"D_block" : {"Time": "1:30", "song": ""},
+		"Break" : {"Time": "2:15", "song": ""},
+		"C_block" : {"Time": "15:10", "song": ""},
+		"End" : {"Time": "15:10", "song": ""}
+	},
+	"Friday":
+	{
+		"A_block" : {"Time": "8:05", "song": ""},
+		"B_block" : {"Time": "8:55", "song": ""},
+		"Advisory" : {"Time": "9:40", "song": ""},
+		"G_block" : {"Time": "10:20", "song": ""},
+		"D_block" : {"Time": "11:05", "song": ""},
+		"E_block" : {"Time": "11:50", "song": ""},
+		"F_block" : {"Time": "12:35", "song": ""},
+		"C_block" : {"Time": "13:20", "song": ""},
+		"H_block" : {"Time": "14:05", "song": ""},
+		"Assembly" : {"Time": "14:50", "song": ""},
+		"End" : {"Time": "15:10", "song": ""}
+	}
+}

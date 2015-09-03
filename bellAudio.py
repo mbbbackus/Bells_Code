@@ -9,7 +9,6 @@ def convertAudio(audioPath):
     length = len(audioPath)
     ext = audioPath[length - 3:]
     wavPath = audioPath[:length-4]+".wav"
-    
     #if it's mp3, convert; wav, do nothing; else, cancel
     if ext == 'mp3':
         s = AudioSegment.from_mp3(audioPath)

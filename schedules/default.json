@@ -1,0 +1,64 @@
+{
+	"Monday":
+	{
+		"A_block" : {"Time": "8:05", "song": "Keep your money.mp3"},
+		"B_block" : {"Time": "8:55", "song": "Keep your money.mp3"},
+		"Advisory": {"Time": "9:40", "song": "Keep your money.mp3"},
+		"C_Block" : {"Time": "10:20", "song": "Keep your money.mp3"},
+		"D_block" : {"Time": "11:05", "song": "Keep your money.mp3"},
+		"E_block" : {"Time": "11:50", "song": "Keep your money.mp3"},
+		"F_block" : {"Time": "12:35", "song": "Keep your money.mp3"},
+		"G_block" : {"Time": "13:20", "song": "Keep your money.mp3"},
+		"Break"   : {"Time": "14:05", "song": "Keep your money.mp3"},
+		"H_block" : {"Time": "14:25", "song": "Keep your money.mp3"},
+		"End"     : {"Time": "15:10", "song": "Keep your money.mp3"}
+	},
+	"Tuesday":
+	{
+		"B_block"   : {"Time": "8:05", "song": "Keep your money.mp3"},
+		"A_block"   : {"Time": "8:55", "song": "Keep your money.mp3"},
+		"Conference": {"Time": "9:40", "song": "Keep your money.mp3"},
+		"G_block"   : {"Time": "10:20", "song": "Keep your money.mp3"},
+		"H_block"   : {"Time": "11:05", "song": "Keep your money.mp3"},
+		"E_block"   : {"Time": "11:50", "song": "Keep your money.mp3"},
+		"F_block"   : {"Time": "12:35", "song": "Keep your money.mp3"},
+		"D_block"   : {"Time": "13:20", "song": "Keep your money.mp3"},
+		"Break"     : {"Time": "14:05", "song": "Keep your money.mp3"},
+		"C_block"   : {"Time": "14:25", "song": "Keep your money.mp3"},
+		"End"       : {"Time": "15:10", "song": "Keep your money.mp3"}
+	},
+	"Wednesday":
+	{
+		"B_block" : {"Time": "8:05", "song": "Keep your money.mp3"},
+		"Assembly": {"Time": "9:30", "song": "Keep your money.mp3"},
+		"C_block" : {"Time": "10:30", "song": "Keep your money.mp3"},
+		"F_conf"  : {"Time": "11:50", "song": "Keep your money.mp3"},
+		"E_block" : {"Time": "12:30", "song": "Keep your money.mp3"},
+		"G_block" : {"Time": "13:50", "song": "Keep your money.mp3"},
+		"End"     : {"Time": "15:10", "song": "Keep your money.mp3"}
+	},
+	"Thursday":
+	{
+		"A_block"     : {"Time": "8:05", "song": "Keep your money.mp3"},
+		"Activities"  : {"Time": "9:30", "song": "Keep your money.mp3"},
+		"H_block"     : {"Time": "10:30", "song": "Keep your money.mp3"},
+		"E_conf"      : {"Time": "11:50", "song": "Keep your money.mp3"},
+		"F_block"     : {"Time": "12:30", "song": "Keep your money.mp3"},
+		"D_block"     : {"Time": "13:50", "song": "Keep your money.mp3"},
+		"End"         : {"Time": "15:10", "song": "Keep your money.mp3"}
+	},
+	"Friday":
+	{
+		"B_block" : {"Time": "8:05", "song": "Keep your money.mp3"},
+		"A_block" : {"Time": "8:55", "song": "Keep your money.mp3"},
+		"Advisory": {"Time": "9:40", "song": "Keep your money.mp3"},
+		"G_block" : {"Time": "10:20", "song": "Keep your money.mp3"},
+		"D_block" : {"Time": "11:05", "song": "Keep your money.mp3"},
+		"E_block" : {"Time": "11:50", "song": "Keep your money.mp3"},
+		"F_block" : {"Time": "12:35", "song": "Keep your money.mp3"},
+		"C_block" : {"Time": "13:20", "song": "Keep your money.mp3"},
+		"H_block" : {"Time": "14:05", "song": "Keep your money.mp3"},
+		"Assembly": {"Time": "14:50", "song": "Keep your money.mp3"},
+		"End"     : {"Time": "15:10", "song": "Keep your money.mp3"}
+	}
+}
