@@ -21,6 +21,9 @@ File explanations:
     constants.py:
         8/24/15 - variables constants library
     
+    main.py:
+        9/3/15 - loads songs and schedules, executable file that runs whole program
+
     sounds directory:
         Contains prebell and other music files, converted files also go here
     
