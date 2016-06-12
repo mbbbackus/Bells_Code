@@ -1,0 +1,66 @@
+{
+	"Monday":
+	{
+		"B_block"    : {"Time": "8:05", "song": "Jarett_Jones/Jungle by Drake.mp3"},
+		"A_block"    : {"Time": "8:55", "song": "Jarett_Jones/Never Ending by Rihanna.mp3"},
+		"Conference" : {"Time": "9:40", "song": "Jarett_Jones/Flight of the Navigator by Childish Gambino.mp3"},
+		"G_block"    : {"Time": "10:20", "song": "Jarett_Jones/I Wanna Be Where You Are by The Jackson 5.mp3"},
+		"H_block"    : {"Time": "11:05", "song": "Jarett_Jones/The Palisades by Childish Gambino.mp3"},
+		"E_block"    : {"Time": "11:50", "song": "Jarett_Jones/Shining Star by Earth Wind and Fire.mp3"},
+		"F_block"    : {"Time": "12:35", "song": "Jarett_Jones/All We Got by Chance the Rapper ft Kanye West.mp3"},
+		"D_block"    : {"Time": "13:20", "song": "Jarett_Jones/Dangerous Woman by Ariana Grande.mp3"},
+		"Break"      : {"Time": "14:05", "song": "Jarett_Jones/Real Sisters by Future.mp3"},
+		"C_block"    : {"Time": "14:25", "song": "Jarett_Jones/Round of Applause by Waka Flocka ft Drake.mp3"},
+		"End"        : {"Time": "15:10", "song": "Jarett_Jones/Too Good by Drake ft Rihanna.mp3"}
+	},
+	"Tuesday": 
+	{
+		"B_block"    : {"Time": "8:05", "song": "Eric_Jackson/One Man Can Change the World by Big Sean.mp3"},
+		"A_block"    : {"Time": "8:55", "song": "Eric_Jackson/"},
+		"Conference" : {"Time": "9:40", "song": "Eric_Jackson/Wicked Games by The Weeknd.mp3"},
+		"G_block"    : {"Time": "10:20", "song": "Eric_Jackson/Exchange by Bryson Tiller.mp3"},
+		"H_block"    : {"Time": "11:05", "song": "Eric_Jackson/Faithful by Drake Extended.mp3"},
+		"E_block"    : {"Time": "11:50", "song": "Eric_Jackson/Oui by Jermih.mp3"},
+		"F_block"    : {"Time": "12:35", "song": "Eric_Jackson/Stay Down by Big Sean.mp3"},
+		"D_block"    : {"Time": "13:20", "song": "Eric_Jackson/A Tale 2 Citiez by J Cole.mp3"},
+		"Break"      : {"Time": "14:05", "song": "Eric_Jackson/Headlines by Drake.mp3"},
+		"C_block"    : {"Time": "14:25", "song": "Eric_Jackson/Low Life by Future ft The Weeknd.mp3"},
+		"End"        : {"Time": "15:10", "song": "Eric_Jackson/Antidote by Travis Scott.mp3"}
+	},
+	"Wednesday":
+	{
+		"A_block" : {"Time": "8:05", "song": "Jarett_Jones/Jungle by Drake.mp3"},
+		"B_block" : {"Time": "9:30", "song": "Jarett_Jones/HOLY by Florida Georgia Line.mp3"},
+		"Assembly": {"Time": "10:30", "song": "Jarett_Jones/Before He Cheats by Carrie Underwood.mp3"},
+		"G_block" : {"Time": "11:50", "song": "Jarett_Jones/Before He Cheats by Carrie Underwood.mp3"},
+		"D_block" : {"Time": "12:30", "song": "Brendan_Mabus/Country Girl Shake It For Me Luke Bryan.mp3"},
+		"E_conf"  : {"Time": "13:50", "song": "Jarett_Jones/Needed Me by Rihanna.mp3"},
+		"End"     : {"Time": "15:10", "song": "Isabel_Morris/Sorry by Justin Beiber.mp3"}
+	},
+	"Thursday":
+	{
+		"A_block" : {"Time": "8:05", "song": "Jarett_Jones/Jungle by Drake.mp3"},
+		"Clubs"   : {"Time": "9:30", "song": "HanaPromAsk/1. Atlas Genius - Trojans [Official Lyric Video].mp3"},
+		"H_block" : {"Time": "10:30", "song": "HanaPromAsk/2. Take Your Time - Sam Hunt (lyrics).mp3"},
+		"E_block" : {"Time": "11:50", "song": "HanaPromAsk/3. Rascal Flatts - I Like The Sound Of That.mp3"},
+		"F_block" : {"Time": "12:30", "song": "HanaPromAsk/4. The Chainsmokers - Roses ft. ROZES.mp3"},
+		"D_block" : {"Time": "13:50", "song": "HanaPromAsk/5. X Ambassadors - Unsteady (Lyrics).mp3"},
+		"End"     : {"Time": "15:10", "song": "HanaPromAsk/7. Nickelback - Far Away [OFFICIAL VIDEO].mp3"}
+		
+	},
+	"Friday": 
+	{
+		"A_block"     : {"Time": "8:05", "song": "Herbert_Padilla/"},
+		"Activities"  : {"Time": "8:55", "song": "Herbert_Padilla/"},
+		"H_block"     : {"Time": "9:40", "song": "Herbert_Padilla/"},
+		"E_conf"      : {"Time": "10:20", "song": "Herbert_Padilla/"},
+		"F_block"     : {"Time": "11:05", "song": "Herbert_Padilla/"},
+		"D_block"     : {"Time": "11:50", "song": "Herbert_Padilla/"},
+		"Assembly"    : {"Time": "12:35", "song": "Herbert_Padilla/"},
+		"Activities"  : {"Time": "13:20", "song": "Herbert_Padilla/Work by Rihanna ft Drake.mp3"},
+		"End"         : {"Time": "14:05", "song": "Herbert_Padilla/"},
+		"B_Block"     : {"Time": "14:50", "song": "Herbert_Padilla/Pop Style by Drake.mp3"},
+		"C_Block"     : {"Time": "15:10", "song": "Herbert_Padilla/"}
+
+    }
+}
