@@ -21,16 +21,21 @@ def convertAudio(audioPath):
 
 def playBell(name, t):
     mixer.init()
-    sound = mixer.Sound(file=name)
+    print name
+    sound = mixer.Sound(name)
     sound.play()
     time.sleep(t)
     mixer.quit()
 
 def playPrebell():
     path = constants.prebellPath
-    playBell(path,6)
+    playBell(path, 6)
 
 def playPostbell():
-    path = constants.postbellPath
-    playBell(path,18)
+    path = constants.prebellPath
+    playBell(path, 18)
 
+def playEmptybell():
+    path = constants.prebellPath
+    playBell(path, 306)
+    playBell(path, 6)
