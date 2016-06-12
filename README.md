@@ -197,7 +197,7 @@ at the end of the file, the run_bells function is called
 
 
 -----------------------------------------------------------------------------------------
-additionally info
+additional info
 -----------------------------------------------------------------------------------------
 
 should the code be moved to another computer, potential issues and solutions are as such:
